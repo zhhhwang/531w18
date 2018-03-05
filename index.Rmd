@@ -86,12 +86,11 @@ Unattributed copying from any source is plagiarism, and has potentially [serious
 
 6. [Extending the ARMA model: Seasonality and trend](06/notes06.html). [(R script)](06/notes06.R)
 
-<!--
 7. [Introduction to the frequency domain](07/notes07.html). [(R script)](07/notes07.R)
-
 
 8. [Smoothing in the time and frequency domains](08/notes08.html). [(R script)](08/notes08.R)
 
+<!--
 9. [Introduction to partially observed Markov process models](notes09/notes9.html). [(R script)](notes09/notes9.R)
 
 10. [Case study: An association between unemployment and mortality?](notes10/notes10.html) [(R script)](notes10/notes10.R)
@@ -125,22 +124,20 @@ Unattributed copying from any source is plagiarism, and has potentially [serious
 
 * [Homework 1](hw01/hw01.html), due in class on Wednesday 1/17.  [Solution](hw01/sol01.html).
 
-* [Homework 2](hw02/hw02.html), due in class on Monday 1/29. 
+* [Homework 2](hw02/hw02.html), due in class on Monday 1/29. [Solution](hw02/sol02.html).
 
-<!--
-[Solution](hw02/sol02.html).
--->
-
-* [Homework 3](hw03/hw03.html), due at midnight on Monday 2/5. 
+* [Homework 3](hw03/hw03.html), due 11:59pm on Monday 2/5. 
 
 <!--
 [Solution](hw/sol03.html). See also [Chapter 7.3](http://ionides.github.io/531w18/notes7/notes7.html#some-data-analysis-using-the-frequency-domain).
+-->
 
-* [Homework 4](hw04/hw04.html), due in class on 2/9. [Solution](hw/sol04.html).
+* [Homework 4](hw04/hw04.html), to be carried out by Monday 2/12.
 
-* [Homework 5](hw05/hw05.html), due in class on 2/16. [Solution](hw/sol05.html).
+* [Homework 5](hw05/hw05.html), due 11:59pm on Monday 2/19. [Solution](hw05/sol05.html).
 
-* [Homework 6](hw06/hw06.html), due in class on 2/23. [Responses](hw/summary06.html).
+<!--
+* [Homework 6](hw06/hw06.html), due in class on 2/23.
 
 * [Homework 7](hw07/hw07.html), a single slide due midnight on 3/21, for a presentation in class on 3/22 or 3/24.
 
@@ -173,11 +170,15 @@ Reading the textbook is not mandatory for the exam, but may be useful to get a b
 
     +  [Midterm exam for STATS 531 Winter 2016](exam/w16/mt531w16.pdf). [Solutions](exam/w16/mt531w16sol.pdf).
 
+    +  [Midterm exam for STATS 531 Winter 2018](exam/w18/mt531w18.pdf). [Solutions](exam/w18/mt531w18sol.pdf).
+    
 -------------------
 
 ## Midterm project
 
 * [Information](midterm_project/midterm_project_info.html)
+
+* [Grading scheme](midterm_project/grade_scheme_midterm_project.html)
 
 * You're also welcome to browse previous midterm projects [available online](http://ionides.github.io/531w16/midterm_project/)
 
